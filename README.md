@@ -1,4 +1,4 @@
-# Tody I Learned
+# Today I Learned
 
 ## CS
 
