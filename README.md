@@ -16,3 +16,5 @@
 ## TypeScript
 
 ## React
+
+- ### [React 렌더링 최적화](https://github.com/DINGUNOTE/TIL/blob/main/React/230225.md)
